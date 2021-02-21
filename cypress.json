@@ -1,0 +1,19 @@
+{
+    "modifyObstructiveCode": true,
+    "experimentalSourceRewriting":false,
+    "chromeWebSecurity": false,
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": false
+    },
+    
+        "testFiles": "**",
+    "env": {
+        "url":"https://rahulshettyacademy.com"
+    },
+    "retries":{
+        "runMode":1
+    },
+    "projectId": "xxwqgo"
+}
+
